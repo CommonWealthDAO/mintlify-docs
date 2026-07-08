@@ -8,11 +8,6 @@
     "dark": "#350174"
   },
   "favicon": "/favicon.svg",
-  "seo": {
-    "metatags": {
-      "canonical": "https://app.wlth.xyz/docs"
-    }
-  },
   "navigation": {
     "pages": [
       {

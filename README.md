@@ -1,16 +1,38 @@
 # WLTH documentation (Mintlify)
 
-Official documentation for [WLTH](https://app.wlth.xyz) — tokenized pre-IPO investing, the WLTH economy, Earn to Own, and platform support.
+Official documentation for [WLTH](https://app.wlth.xyz).
 
-- **Live (target):** `https://app.wlth.xyz/docs`
-- **Mintlify preview:** deployed on merge to `main`
-- **Legacy:** `https://docs.wlth.xyz` (GitBook — redirecting during migration)
+## Live site
 
-## Local development
+**https://mintlify-docs.mintlify.app**
+
+(Custom domain `app.wlth.xyz/docs` will be configured at cutover — not needed for preview.)
+
+## Local preview
 
 ```bash
-npx mintlify dev
+npm i -g mint   # or: npx mint@latest dev
+cd mintlify-docs
+mint dev        # http://localhost:3000
 ```
+
+Validate before pushing:
+
+```bash
+mint validate
+mint broken-links
+```
+
+## Deploy to Mintlify
+
+Pushes to `main` auto-deploy when the [Mintlify GitHub app](https://github.com/apps/mintlify) is connected to this repo.
+
+If the live site still shows the Mintlify starter kit after a push:
+
+1. Open [app.mintlify.com](https://app.mintlify.com) → your **mintlify-docs** project
+2. Confirm **GitHub** is linked to `CommonWealthDAO/mintlify-docs` on branch `main`
+3. Click **Deploy** to trigger manually
+4. Wait for the build to finish, then hard-refresh the live URL
 
 ## Repository structure
 
