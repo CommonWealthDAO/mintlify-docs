@@ -4,9 +4,24 @@ Official documentation for [WLTH](https://app.wlth.xyz).
 
 ## Live site
 
-**https://mintlify-docs.mintlify.app**
+| URL | Status |
+| --- | --- |
+| **https://wlth.mintlify.app** | Mintlify deployment subdomain `wlth` — target live URL |
+| https://mintlify-docs.mintlify.app | Separate starter project (ignore) |
 
-(Custom domain `app.wlth.xyz/docs` will be configured at cutover — not needed for preview.)
+After linking `CommonWealthDAO/mintlify-docs` to the **wlth** deployment and clicking **Deploy** in [app.mintlify.com](https://app.mintlify.com), WLTH content goes live at `wlth.mintlify.app`.
+
+Custom domain (`app.wlth.xyz/docs`) comes later at cutover.
+
+## Mintlify MCP (Cursor)
+
+Use the **Mintlify Admin MCP** (`https://mcp.mintlify.com`) for AI-assisted edits:
+
+1. Authenticate when Cursor prompts
+2. `list_deployments` → subdomain **`wlth`**
+3. `checkout` → edit pages → `save` (opens PR)
+
+See [AGENTS.md](./AGENTS.md) for the full MCP workflow.
 
 ## Local preview
 
