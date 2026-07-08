@@ -7,6 +7,7 @@
 import { mkdir, writeFile, readFile, access } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { replaceEmDashes } from "./remove-em-dashes.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const GITBOOK_BASE = "https://docs.wlth.xyz";
@@ -173,7 +174,7 @@ function fixLinks(md) {
 }
 
 function toMdx(md, title) {
-  const sanitized = sanitizeForMdx(md);
+  const sanitized = replaceEmDashes(sanitizeForMdx(md));
   const description = firstParagraph(sanitized, title);
   const body = fixLinks(sanitized);
   return `---

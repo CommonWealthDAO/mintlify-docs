@@ -6,7 +6,7 @@ Official documentation for [WLTH](https://app.wlth.xyz).
 
 | URL | Status |
 | --- | --- |
-| **https://wlth.mintlify.app** | Mintlify deployment subdomain `wlth` — target live URL |
+| **https://wlth.mintlify.app** | Mintlify deployment subdomain `wlth`, target live URL |
 | https://mintlify-docs.mintlify.app | Separate starter project (ignore) |
 
 After linking `CommonWealthDAO/mintlify-docs` to the **wlth** deployment and clicking **Deploy** in [app.mintlify.com](https://app.mintlify.com), WLTH content goes live at `wlth.mintlify.app`.
@@ -26,9 +26,9 @@ See [AGENTS.md](./AGENTS.md) for the full MCP workflow.
 ## Local preview
 
 ```bash
-npm i -g mint   # or: npx mint@latest dev
+npm i -g mint # or: npx mint@latest dev
 cd mintlify-docs
-mint dev        # http://localhost:3000
+mint dev # http://localhost:3000
 ```
 
 Validate before pushing:
@@ -57,7 +57,7 @@ If the live site still shows the Mintlify starter kit after a push:
 | `index.mdx` | Documentation home |
 | `support/` | Help & FAQ |
 | `disclaimer/` | Legal (privacy, terms) |
-| `investment/` | Product — slices, staking, pre-IPO |
+| `investment/` | Product, slices, staking, pre-IPO |
 | `earn-to-own/` | Earn to Own campaigns |
 | `wlth-economy/` | Token, tokenomics, staking economy |
 
@@ -79,6 +79,6 @@ Remaining ~100 GitBook pages: in progress.
 1. Branch from `main`
 2. Add or edit MDX under the appropriate folder
 3. Register new pages in `docs.json` navigation
-4. Open PR — Mintlify deploys a preview URL automatically
+4. Open PR, Mintlify deploys a preview URL automatically
 
 See [AGENTS.md](./AGENTS.md) for terminology and style conventions.
