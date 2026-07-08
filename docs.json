@@ -12,27 +12,346 @@
     "pages": [
       {
         "group": "Overview",
-        "pages": ["index"]
+        "pages": [
+          "index"
+        ]
       },
       {
         "group": "Investing",
-        "pages": ["investment/slices/gifting-slices"]
+        "pages": [
+          "investment",
+          "investment/automated-strategies",
+          "investment/exclusive-access",
+          "investment/genesis-nfts",
+          "investment/slices",
+          "investment/staking-and-fees",
+          "investment/the-evolution-of-wlth",
+          {
+            "group": "Exclusive Access",
+            "pages": [
+              "investment/exclusive-access/pre-ipo-access",
+              "investment/exclusive-access/pre-ipo-to-public",
+              "investment/exclusive-access/wlth-funds",
+              {
+                "group": "Pre Ipo Access",
+                "pages": [
+                  "investment/exclusive-access/pre-ipo-access/agility",
+                  "investment/exclusive-access/pre-ipo-access/anthropic",
+                  "investment/exclusive-access/pre-ipo-access/apptronik",
+                  "investment/exclusive-access/pre-ipo-access/cerebras",
+                  "investment/exclusive-access/pre-ipo-access/chaos",
+                  "investment/exclusive-access/pre-ipo-access/colossal-biosciences",
+                  "investment/exclusive-access/pre-ipo-access/crusoe",
+                  "investment/exclusive-access/pre-ipo-access/discord",
+                  "investment/exclusive-access/pre-ipo-access/figure-ai",
+                  "investment/exclusive-access/pre-ipo-access/gecko-robotics",
+                  "investment/exclusive-access/pre-ipo-access/kraken",
+                  "investment/exclusive-access/pre-ipo-access/mercor",
+                  "investment/exclusive-access/pre-ipo-access/nrg",
+                  "investment/exclusive-access/pre-ipo-access/perplexity",
+                  "investment/exclusive-access/pre-ipo-access/polymarket",
+                  "investment/exclusive-access/pre-ipo-access/prometheus",
+                  "investment/exclusive-access/pre-ipo-access/psiquantum",
+                  "investment/exclusive-access/pre-ipo-access/replit",
+                  "investment/exclusive-access/pre-ipo-access/shield-ai",
+                  "investment/exclusive-access/pre-ipo-access/spacex",
+                  "investment/exclusive-access/pre-ipo-access/st0x",
+                  "investment/exclusive-access/pre-ipo-access/synchron",
+                  "investment/exclusive-access/pre-ipo-access/unconventional",
+                  "investment/exclusive-access/pre-ipo-access/vercel",
+                  "investment/exclusive-access/pre-ipo-access/vulcan-elements",
+                  "investment/exclusive-access/pre-ipo-access/wlth",
+                  "investment/exclusive-access/pre-ipo-access/x-energy",
+                  "investment/exclusive-access/pre-ipo-access/xai",
+                  {
+                    "group": "Agility",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/agility/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Anthropic",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/anthropic/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Apptronik",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/apptronik/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Cerebras",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/cerebras/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Chaos",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/chaos/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Colossal Biosciences",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/colossal-biosciences/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Crusoe",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/crusoe/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Discord",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/discord/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Figure Ai",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/figure-ai/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Gecko Robotics",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/gecko-robotics/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Kraken",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/kraken/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Mercor",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/mercor/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Nrg",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/nrg/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Perplexity",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/perplexity/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Polymarket",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/polymarket/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Prometheus",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/prometheus/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Psiquantum",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/psiquantum/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Replit",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/replit/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Shield Ai",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/shield-ai/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Spacex",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/spacex/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "St0x",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/st0x/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Synchron",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/synchron/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Unconventional",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/unconventional/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Vercel",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/vercel/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Vulcan Elements",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/vulcan-elements/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Wlth",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/wlth/perma-staking-how-it-works",
+                      "investment/exclusive-access/pre-ipo-access/wlth/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "X Energy",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/x-energy/proof-of-ownership"
+                    ]
+                  },
+                  {
+                    "group": "Xai",
+                    "pages": [
+                      "investment/exclusive-access/pre-ipo-access/xai/proof-of-ownership"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Wlth Funds",
+                "pages": [
+                  "investment/exclusive-access/wlth-funds/oracles",
+                  "investment/exclusive-access/wlth-funds/the-alpha-fund",
+                  "investment/exclusive-access/wlth-funds/the-priceless-fund"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Slices",
+            "pages": [
+              "investment/slices/gifting-slices",
+              "investment/slices/buying-and-selling-slices",
+              "investment/slices/splitting-slices"
+            ]
+          }
+        ]
       },
       {
         "group": "WLTH Economy",
-        "pages": ["wlth-economy/tokenomics"]
+        "pages": [
+          "wlth-economy",
+          "wlth-economy/how-usdwlth-creates-value",
+          "wlth-economy/smart-staking",
+          "wlth-economy/stakers-fund",
+          "wlth-economy/tokenomics",
+          {
+            "group": "Stakers Fund",
+            "pages": [
+              "wlth-economy/stakers-fund/stakers-fund-projects"
+            ]
+          }
+        ]
       },
       {
         "group": "Earn to Own",
-        "pages": ["earn-to-own/faq"]
+        "pages": [
+          "earn-to-own",
+          "earn-to-own/faq",
+          "earn-to-own/terms-and-conditions"
+        ]
       },
       {
         "group": "Help & Support",
-        "pages": ["support/faq"]
+        "pages": [
+          "support",
+          "support/delete-my-account",
+          "support/faq",
+          "support/getting-started",
+          "support/how-to-export-your-private-key",
+          "support/spacex-bonus-promotion",
+          "support/spacex-referrals-giveaway",
+          "support/support-contact"
+        ]
       },
       {
         "group": "Legal",
-        "pages": ["disclaimer/privacy-policy"]
+        "pages": [
+          "disclaimer",
+          "disclaimer/privacy-policy",
+          "disclaimer/terms-and-conditions"
+        ]
+      },
+      {
+        "group": "Security & Technology",
+        "pages": [
+          "security-and-technology",
+          "security-and-technology/security",
+          "security-and-technology/security-best-practices",
+          "security-and-technology/suspicious-urls-and-links"
+        ]
+      },
+      {
+        "group": "Governance",
+        "pages": [
+          "governance",
+          "governance/daos-and-decentralisation",
+          "governance/distributed-autonomous-operating-system-daos"
+        ]
+      },
+      {
+        "group": "Community",
+        "pages": [
+          "community",
+          "community/code-of-conduct"
+        ]
+      },
+      {
+        "group": "Referrals",
+        "pages": [
+          "referrals"
+        ]
+      },
+      {
+        "group": "Roadmap",
+        "pages": [
+          "roadmap"
+        ]
+      },
+      {
+        "group": "Brand Kit",
+        "pages": [
+          "brand-kit"
+        ]
+      },
+      {
+        "group": "Team & Contributors",
+        "pages": [
+          "team-and-contributors"
+        ]
+      },
+      {
+        "group": "Socials & Links",
+        "pages": [
+          "socials-and-links"
+        ]
       }
     ],
     "global": {
