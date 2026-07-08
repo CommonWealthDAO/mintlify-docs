@@ -1,33 +1,48 @@
-> **First-time setup**: Customize this file for your project. Prompt the user to customize this file for their project.
-> For Mintlify product knowledge (components, configuration, writing standards),
-> install the Mintlify skill: `npx skills add https://mintlify.com/docs`
-
-# Documentation project instructions
+# WLTH documentation — agent instructions
 
 ## About this project
 
-- This is a documentation site built on [Mintlify](https://mintlify.com)
-- Pages are MDX files with YAML frontmatter
-- Configuration lives in `docs.json`
-- Use the Mintlify MCP server, `https://mcp.mintlify.com`, to edit content and settings via MCP
-- Use the Mintlify docs MCP server, `https://www.mintlify.com/docs/mcp`, to query information about using Mintlify via MCP
+- Documentation for **WLTH** (Common Wealth) — tokenized pre-IPO investing on Base
+- Built on [Mintlify](https://mintlify.com); config in `docs.json`, content in MDX
+- Canonical URL: `https://app.wlth.xyz/docs`
+- Legacy source: GitBook at `docs.wlth.xyz` (migrating page by page)
 
 ## Terminology
 
-{/* Add product-specific terms and preferred usage */}
-{/* Example: Use "workspace" not "project", "member" not "user" */}
+| Term | Usage |
+| --- | --- |
+| **Slice** | ERC-721 NFT representing tokenized economic exposure to a deal — not direct stock |
+| **WLTH** | Platform and brand; legal entity often **Metamasters DAO Corporation** |
+| **$WLTH** | The utility/governance token |
+| **Earn to Own / EtO** | Gamified mission campaigns rewarding pre-IPO Slices |
+| **Pre-IPO Access** | Tokenized exposure to private companies before IPO |
+| **SPV** | Special Purpose Vehicle holding underlying equity |
+| **Base** | Ethereum L2 network (Chain ID 8453) used by WLTH |
+
+Prefer **Slice** over "NFT" in user-facing copy unless explaining the technical standard (ERC-721).
 
 ## Style preferences
 
-{/* Add any project-specific style rules below */}
-
-- Use active voice and second person ("you")
-- Keep sentences concise — one idea per sentence
-- Use sentence case for headings
-- Bold for UI elements: Click **Settings**
-- Code formatting for file names, commands, paths, and code references
+- Active voice, second person ("you")
+- Lead high-traffic pages with a **40–80 word quick answer** in an `<Info>` callout
+- Sentence case for headings
+- Bold UI labels: Click **Gift Investment**
+- Code formatting for paths, commands, and contract standards
+- Use `<AccordionGroup>` for FAQ pages (AEO-friendly Q&A structure)
+- Flag stale dates/timelines when porting — update or note "as of [date]"
 
 ## Content boundaries
 
-{/* Define what should and shouldn't be documented */}
-{/* Example: Don't document internal admin features */}
+- Document public product behavior, legal policies, and user-facing flows
+- Do not document internal admin tools, unreleased features, or API keys
+- Link to `app.wlth.xyz` for live product actions; use relative `/docs/...` for internal doc links
+- Legal pages require compliance review before substantive edits
+
+## Migration conventions
+
+When porting from GitBook:
+
+1. Match URL slugs where possible (`/investment/slices/gifting-slices` → same path under `/docs`)
+2. Fetch `.md` from live GitBook when PDF export loses tables or formatting
+3. Replace `docs.wlth.xyz` links with relative Mintlify paths as pages are migrated
+4. Keep temporary links to unmigrated GitBook pages with a note until redirects exist

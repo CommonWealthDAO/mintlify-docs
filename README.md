@@ -1,55 +1,47 @@
-# Mintlify Starter Kit
+# WLTH documentation (Mintlify)
 
-Use the starter kit to get your docs deployed and ready to customize.
+Official documentation for [WLTH](https://app.wlth.xyz) — tokenized pre-IPO investing, the WLTH economy, Earn to Own, and platform support.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+- **Live (target):** `https://app.wlth.xyz/docs`
+- **Mintlify preview:** deployed on merge to `main`
+- **Legacy:** `https://docs.wlth.xyz` (GitBook — redirecting during migration)
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
-
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
-
-## AI-assisted writing
-
-Set up your AI coding tool to work with Mintlify:
+## Local development
 
 ```bash
-npx skills add https://mintlify.com/docs
+npx mintlify dev
 ```
 
-This command installs Mintlify's documentation skill for your configured AI tools like Claude Code, Cursor, Windsurf, and others. The skill includes component reference, writing standards, and workflow guidance.
+## Repository structure
 
-See the [AI tools guides](/ai-tools) for tool-specific setup.
+| Path | Purpose |
+| --- | --- |
+| `docs.json` | Site config, navigation, branding, canonical URL |
+| `index.mdx` | Documentation home |
+| `support/` | Help & FAQ |
+| `disclaimer/` | Legal (privacy, terms) |
+| `investment/` | Product — slices, staking, pre-IPO |
+| `earn-to-own/` | Earn to Own campaigns |
+| `wlth-economy/` | Token, tokenomics, staking economy |
 
-## Development
+## Migration status
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+Pilot pages ported from GitBook (July 2026):
 
-```
-npm i -g mint
-```
+- [x] Introduction
+- [x] Privacy Policy
+- [x] Support FAQ
+- [x] Gifting Slices
+- [x] Earn to Own FAQ
+- [x] Tokenomics
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+Remaining ~100 GitBook pages: in progress.
 
-```
-mint dev
-```
+## Contributing
 
-View your local preview at `http://localhost:3000`.
+1. Branch from `main`
+2. Add or edit MDX under the appropriate folder
+3. Register new pages in `docs.json` navigation
+4. Open PR — Mintlify deploys a preview URL automatically
 
-## Publishing changes
-
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
-
-## Need help?
-
-### Troubleshooting
-
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
-
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+See [AGENTS.md](./AGENTS.md) for terminology and style conventions.
