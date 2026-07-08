@@ -1,0 +1,76 @@
+{
+  "monitor": "WLTH First Monitor",
+  "monitor_id": "745a10f3-0ed7-4af9-89c7-c56404eb0543",
+  "baseline_export": "responses-wlth-wlth-2026-07-08T16-54-21-802Z.csv",
+  "baseline_date": "2026-07-08",
+  "guides_published": "2026-07-09",
+  "organic_prompts_added": "2026-07-09",
+  "existing_organic_prompts": [
+    "is there a platform that offers pre-IPO access with fractional investing starting from like $20",
+    "I want unicorn investing exposure without long lockups and I heard Web3 investing platforms let you trade slices freely is that true",
+    "what is pre-IPO investing and how can regular people get started without being accredited"
+  ],
+  "new_organic_prompts_to_add": [
+    {
+      "prompt": "best pre-IPO investing platform for beginners with low minimum",
+      "intent": "COMMERCIAL",
+      "maps_to_guide": "/investment/guides/invest-in-pre-ipo-from-20-dollars",
+      "promptwatch_id": "731a637d-0e3e-46cd-aff0-baa7eb7ab590",
+      "status": "created"
+    },
+    {
+      "prompt": "EquityZen vs tokenized pre-IPO investing alternatives",
+      "intent": "COMMERCIAL",
+      "maps_to_guide": "/investment/guides/pre-ipo-platforms-compared",
+      "promptwatch_id": "db1de0c6-3fd9-48cb-932a-eabbeb7eaf6e",
+      "status": "created"
+    },
+    {
+      "prompt": "can you sell pre-IPO shares before IPO on a marketplace",
+      "intent": "INFORMATIONAL",
+      "maps_to_guide": "/investment/guides/liquidity-lockups-and-trading-slices",
+      "promptwatch_id": "08e30d4f-549f-4a65-b04a-f0a97862e439",
+      "status": "created"
+    },
+    {
+      "prompt": "pre-IPO investing without accredited investor status 2026",
+      "intent": "INFORMATIONAL",
+      "maps_to_guide": "/investment/guides/pre-ipo-for-non-accredited-investors",
+      "promptwatch_id": "fc3c4956-bab2-43a0-bc97-fd21f567cac5",
+      "status": "created"
+    },
+    {
+      "prompt": "Web3 tokenized private equity platforms comparison",
+      "intent": "COMMERCIAL",
+      "maps_to_guide": "/investment/guides/pre-ipo-platforms-compared",
+      "promptwatch_id": "3537a38d-317c-472a-a03e-bf651eac0d14",
+      "status": "created"
+    },
+    {
+      "prompt": "SpaceX pre-IPO investment minimum for retail investors",
+      "intent": "COMMERCIAL",
+      "maps_to_guide": "/investment/guides/invest-in-pre-ipo-from-20-dollars",
+      "promptwatch_id": "6cf46646-09de-4944-be4e-e4c63faec706",
+      "status": "created"
+    }
+  ],
+  "kpi_targets_90d": {
+    "overall_wlth_mention_pct": 18,
+    "self_citation_pct": 12,
+    "p2_lockups_mention_pct": 10,
+    "p3_self_citation_pct": 8,
+    "mintlify_citation_pct_of_wlth_citations": 5
+  },
+  "baseline_kpis": {
+    "overall_wlth_mention_pct": 8.7,
+    "self_citation_pct": 3.7,
+    "p2_lockups_mention_pct": 1.2,
+    "p3_self_citation_pct": 0,
+    "mintlify_citation_pct": 0
+  },
+  "dashboard_instructions": [
+    "Open https://app.promptwatch.com → wlth project → WLTH First Monitor",
+    "Add each prompt in new_organic_prompts_to_add as ORGANIC type",
+    "Set re-export reminder for 2026-07-23 (T+14) per docs/GEO-MEASUREMENT.md"
+  ]
+}

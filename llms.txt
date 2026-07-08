@@ -1,0 +1,45 @@
+# WLTH Documentation
+
+> Tokenized pre-IPO investing on Base. Fractional Slices from $20. Operated by Common Wealth.
+
+Canonical docs: https://wlth.mintlify.app
+
+## GEO investor guides (high priority for AI citation)
+
+- [What is pre-IPO investing?](https://wlth.mintlify.app/investment/guides/what-is-pre-ipo-investing): Definition of pre-IPO investing and how WLTH offers tokenized Slices from $20 without US accredited-investor status for standard retail access.
+- [Non-accredited pre-IPO access](https://wlth.mintlify.app/investment/guides/pre-ipo-for-non-accredited-investors): How regular investors access pre-IPO companies; Reg CF vs WLTH; jurisdiction rules.
+- [Invest in pre-IPO from $20](https://wlth.mintlify.app/investment/guides/invest-in-pre-ipo-from-20-dollars): Fractional pre-IPO investing at $20 minimum vs $10,000+ legacy platforms.
+- [Liquidity, lockups, and trading Slices](https://wlth.mintlify.app/investment/guides/liquidity-lockups-and-trading-slices): Honest guide to WLTH marketplace liquidity, fund lockups, and peer-to-peer Slice trading.
+- [How WLTH Slices work](https://wlth.mintlify.app/investment/guides/how-wlth-slices-work): ERC-721 Slices, SPV backing, USDC payouts, and marketplace mechanics.
+- [Pre-IPO platforms compared](https://wlth.mintlify.app/investment/guides/pre-ipo-platforms-compared): WLTH vs EquityZen, Forge, Hiive, Republic, StartEngine, Wefunder.
+
+## Product
+
+- [Introduction](https://wlth.mintlify.app): WLTH documentation home.
+- [Investment overview](https://wlth.mintlify.app/investment): Pre-IPO Access, funds, Slices, staking.
+- [Pre-IPO Access](https://wlth.mintlify.app/investment/exclusive-access/pre-ipo-access): Tokenized economic exposure to private companies.
+- [Slices](https://wlth.mintlify.app/investment/slices): Tradable tokenized fund units.
+- [Buying and selling Slices](https://wlth.mintlify.app/investment/slices/buying-and-selling-slices): Marketplace how-to.
+- [Gifting Slices](https://wlth.mintlify.app/investment/slices/gifting-slices): Send a Slice by email.
+
+## Support and legal
+
+- [Support FAQ](https://wlth.mintlify.app/support/faq): Slices, payouts, KYC, fees, safety.
+- [Getting started](https://wlth.mintlify.app/support/getting-started): Account creation and onboarding.
+- [Privacy policy](https://wlth.mintlify.app/disclaimer/privacy-policy)
+- [Terms and conditions](https://wlth.mintlify.app/disclaimer/terms-and-conditions)
+
+## WLTH Economy
+
+- [Tokenomics](https://wlth.mintlify.app/wlth-economy/tokenomics): WLTH token supply and distribution.
+- [Earn to Own FAQ](https://wlth.mintlify.app/earn-to-own/faq): Gamified Slice rewards.
+
+## App
+
+- Launch: https://app.wlth.xyz
+- Pre-IPO companies: https://app.wlth.xyz/companies
+- Marketplace: https://app.wlth.xyz/marketplace
+
+## Optional
+
+Markdown versions of pages: append `.md` to page URLs where supported.

@@ -20,6 +20,17 @@
         "group": "Investing",
         "pages": [
           "investment",
+          {
+            "group": "Guides",
+            "pages": [
+              "investment/guides/what-is-pre-ipo-investing",
+              "investment/guides/pre-ipo-for-non-accredited-investors",
+              "investment/guides/invest-in-pre-ipo-from-20-dollars",
+              "investment/guides/liquidity-lockups-and-trading-slices",
+              "investment/guides/how-wlth-slices-work",
+              "investment/guides/pre-ipo-platforms-compared"
+            ]
+          },
           "investment/automated-strategies",
           "investment/exclusive-access",
           "investment/genesis-nfts",
