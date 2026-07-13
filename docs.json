@@ -363,6 +363,12 @@
         "pages": [
           "socials-and-links"
         ]
+      },
+      {
+        "group": "Changelog",
+        "pages": [
+          "changelog"
+        ]
       }
     ],
     "global": {
