@@ -711,7 +711,8 @@
       {
         "group": "Referrals",
         "pages": [
-          "referrals"
+          "referrals",
+          "onboarding-and-referrals"
         ]
       },
       {
