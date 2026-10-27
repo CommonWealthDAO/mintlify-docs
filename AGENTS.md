@@ -47,7 +47,7 @@ Use when unsure about `docs.json` schema, components, or deploy behavior.
 | Term | Usage |
 | --- | --- |
 | **Slice** | an ERC-721 token on Base representing tokenised economic exposure. Never write NFT in copy. |
-| **WLTH** | Platform and brand; legal entity often **Metamasters DAO Corporation** |
+| **WLTH** | Platform and brand; site provider **METAMASTERS DAO CORP** (Panama, founded 2022) |
 | **$WLTH** | The utility/governance token |
 | **Earn to Own / EtO** | Gamified mission campaigns rewarding pre-IPO Slices |
 | **Pre-IPO Access** | Tokenized exposure to private companies before IPO |

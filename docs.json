@@ -438,7 +438,8 @@
     "organization": {
       "id": "https://app.wlth.xyz/#organization",
       "name": "WLTH",
-      "legalName": "Metamaster DAO Corp.",
+      "legalName": "METAMASTERS DAO CORP",
+      "foundingDate": "2022",
       "url": "https://wlth.xyz",
       "logo": "https://app.wlth.xyz/WLTHFavicon-Grn.png",
       "sameAs": [
