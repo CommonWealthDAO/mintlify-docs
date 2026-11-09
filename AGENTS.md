@@ -46,15 +46,15 @@ Use when unsure about `docs.json` schema, components, or deploy behavior.
 
 | Term | Usage |
 | --- | --- |
-| **Slice** | ERC-721 NFT representing tokenized economic exposure to a deal, not direct stock |
-| **WLTH** | Platform and brand; legal entity often **Metamasters DAO Corporation** |
+| **Slice** | an ERC-721 token on Base representing tokenised economic exposure. Never write NFT in copy. |
+| **WLTH** | Platform and brand; site provider **METAMASTERS DAO CORP** (Panama, founded 2022) |
 | **$WLTH** | The utility/governance token |
 | **Earn to Own / EtO** | Gamified mission campaigns rewarding pre-IPO Slices |
 | **Pre-IPO Access** | Tokenized exposure to private companies before IPO |
 | **SPV** | Special Purpose Vehicle holding underlying equity |
 | **Base** | Ethereum L2 network (Chain ID 8453) used by WLTH |
 
-Prefer **Slice** over "NFT" in user-facing copy unless explaining the technical standard (ERC-721).
+Prefer **Slice** and **tokenised economic exposure** in user-facing copy. Use ERC-721 only when explaining the technical standard.
 
 ## Style preferences
 

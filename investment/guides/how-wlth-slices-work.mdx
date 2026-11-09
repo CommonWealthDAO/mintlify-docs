@@ -1,22 +1,22 @@
 ---
 title: "How WLTH Slices work"
-description: "WLTH Slices explained: tokenized ERC-721 units of pre-IPO fund exposure, SPV backing, trading on the marketplace, and payouts in USDC."
+description: "WLTH Slices explained: tokenized ERC-721 units of pre-IPO fund exposure, SPV backing, trading in the app, and payouts in USDC."
 ---
 
 <Info>
-  **Quick answer:** A **Slice** is an ERC-721 NFT on Base that represents your proportional share of a pre-IPO fund offering. Each Slice is **1:1 backed** by underlying equity in a separate legal structure. You can **hold, trade, or split** Slices when fund rules allow. Payouts from exits arrive in **USDC**.
+  **Quick answer:** A **Slice** is an ERC-721 token on Base that gives you a contractual economic right to your share of a WLTH allocation in a private company. WLTH Corp. holds the underlying position; you do not become a shareholder. You can **hold, trade, or split** Slices when fund rules allow. Payouts from exits arrive in **USDC**.
 </Info>
 
-Slices are how WLTH turns illiquid private-market allocations into **fractional, transparent, tradable** positions. Instead of locking capital for years with no exit path, eligible holders can list Slices on the WLTH marketplace when fund terms and buyer demand allow.
+Slices are how WLTH turns illiquid private-market allocations into **fractional, transparent, tradable** positions. Instead of locking capital for years with no exit path, eligible holders can list Slices in the WLTH app when fund terms and buyer demand allow.
 
 ## What is a Slice?
 
 A Slice is a **tokenized unit of ownership** representing your exact share in a deal or fund:
 
-- Standard: **ERC-721** NFT on **Base** (Ethereum L2)
-- Economic meaning: **tokenized economic exposure** to underlying pre-IPO equity
+- Standard: **ERC-721** token on **Base** (Ethereum L2)
+- Economic meaning: **tokenised economic exposure** to a WLTH allocation in a private company
 - Not direct stock: no shareholder voting rights in the target company
-- Backing: **1:1** with equity held in an SPV or fund structure per offering documents
+- Backing: WLTH Corp. holds the underlying position per offering documents; your Slice is a contractual economic right
 
 ## How Slices are created
 
@@ -24,13 +24,13 @@ A Slice is a **tokenized unit of ownership** representing your exact share in a 
 flowchart TD
   Subscribe[Investor subscribes] --> Fund[Pre-IPO fund offering]
   Fund --> SPV[SPV holds underlying equity]
-  SPV --> Mint[Slice NFT minted to wallet]
+  SPV --> Mint[Slice minted to wallet]
   Mint --> Portfolio[Visible in WLTH portfolio]
 ```
 
 1. You **subscribe** to a live pre-IPO offering on WLTH.
 2. Capital flows into a **fund structure** that holds verified underlying equity.
-3. You receive a **Slice NFT** proportional to your investment.
+3. You receive a **Slice** proportional to your investment.
 4. Slice metadata records your share, voting weight on exits, and status updates.
 
 ## What you can do with a Slice
@@ -38,7 +38,7 @@ flowchart TD
 | Action | Description |
 | --- | --- |
 | **Hold** | Maintain exposure until IPO, M&A, dividend, or other liquidity event |
-| **Trade** | List on the WLTH marketplace when fund terms permit ([how to sell](/investment/slices/buying-and-selling-slices)) |
+| **Trade** | List in the WLTH app when fund terms permit ([how to sell](/investment/slices/buying-and-selling-slices)) |
 | **Split** | Divide a Slice into smaller parts ([splitting Slices](/investment/slices/splitting-slices)) |
 | **Gift** | Send a Slice to another person by email ([gifting Slices](/investment/slices/gifting-slices)) |
 | **Vote** | Participate in community-led exit votes per deal terms |
@@ -59,7 +59,7 @@ The full path is in [From Slice to public asset](/investment/guides/from-slice-t
 Slices are **designed** for flexibility, but liquidity is **conditional**:
 
 - Fund-level **lockups** may block transfers after subscription.
-- You need a **willing buyer** on the marketplace.
+- You need a **willing buyer** in the app.
 - WLTH does **not** guarantee bids or repurchase your Slice.
 
 Read the full [liquidity and lockups guide](/investment/guides/liquidity-lockups-and-trading-slices).
@@ -68,9 +68,9 @@ Read the full [liquidity and lockups guide](/investment/guides/liquidity-lockups
 
 | Topic | Traditional fund interest | WLTH Slice |
 | --- | --- | --- |
-| Proof of ownership | Paper / custodian records | On-chain NFT on Base |
+| Proof of ownership | Paper / fund administrator records | On-chain record on Base |
 | Minimum | Often \$10,000\+ | From **\$20** |
-| Secondary sales | Rare, negotiated | Marketplace when eligible |
+| Secondary sales | Rare, negotiated | In-app sales when eligible |
 | Payouts | Fund admin distribution | USDC to wallet |
 | Transparency | Periodic statements | On-chain provenance \+ app portfolio |
 
@@ -96,15 +96,15 @@ Read the full [liquidity and lockups guide](/investment/guides/liquidity-lockups
   </Accordion>
 
   <Accordion title="Are Slices backed by real equity?">
-    Yes. Each Slice is backed 1:1 by equity held in a separate legal structure per offering terms.
+    WLTH Corp. holds the underlying position for each offering. Your Slice is a contractual economic right to part of that allocation, not a share in the target company.
   </Accordion>
 
   <Accordion title="Can I sell my Slice anytime?">
-    When fund terms allow and a buyer exists, yes, via the WLTH marketplace. Lockups and low demand can prevent sales.
+    When fund terms allow and a buyer exists, yes, in the WLTH app. Lockups and low demand can prevent sales.
   </Accordion>
 
   <Accordion title="What blockchain are Slices on?">
-    Base (Ethereum L2), as ERC-721 NFTs.
+    Base (Ethereum L2), as ERC-721 tokens.
   </Accordion>
 
   <Accordion title="How do I buy my first Slice?">
@@ -112,6 +112,6 @@ Read the full [liquidity and lockups guide](/investment/guides/liquidity-lockups
   </Accordion>
 
   <Accordion title="What fees apply?">
-    Fees vary by offering and marketplace activity. See fund disclosures and [staking and fees](/investment/staking-and-fees) for platform context.
+    Fees vary by offering and secondary activity in the app. See fund disclosures and [staking and fees](/investment/staking-and-fees) for platform context.
   </Accordion>
 </AccordionGroup>
