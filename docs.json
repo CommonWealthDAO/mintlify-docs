@@ -654,7 +654,8 @@
               "wlth-economy/stakers-fund/stakers-fund-projects"
             ]
           }
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "Earn to Own",
@@ -662,7 +663,8 @@
           "earn-to-own",
           "earn-to-own/faq",
           "earn-to-own/terms-and-conditions"
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "Help & Support",
