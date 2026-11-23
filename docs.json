@@ -287,6 +287,7 @@
           "support/delete-my-account",
           "support/faq",
           "support/getting-started",
+          "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
           "support/support-contact"
         ]
@@ -667,6 +668,7 @@
           "support/delete-my-account",
           "support/faq",
           "support/getting-started",
+          "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
           "support/support-contact"
         ]
@@ -720,8 +722,7 @@
       {
         "group": "Referrals",
         "pages": [
-          "referrals",
-          "onboarding-and-referrals"
+          "referrals"
         ]
       },
       {
