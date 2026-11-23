@@ -27,7 +27,7 @@ Canonical docs: https://wlth.mintlify.app
 - [Support FAQ](https://wlth.mintlify.app/support/faq): Slices, payouts, KYC, fees, safety.
 - [Getting started](https://wlth.mintlify.app/support/getting-started): Account creation and onboarding.
 - [Onboarding](https://wlth.mintlify.app/onboarding-and-referrals): Download the WLTH app, verify, and buy a first Slice.
-- [Referrals](https://wlth.mintlify.app/referrals): Referrer gets 10,000 points when a referral joins, or 20,000 for that referral if they invest (replaces the 10,000, not added to it).
+- [Referrals](https://wlth.mintlify.app/referrals): You get 10,000 points when a referral joins, or 20,000 for that referral if they invest (replaces the 10,000, not added to it). Your friend gets a 20,000-point welcome bonus.
 - [Privacy policy](https://wlth.mintlify.app/disclaimer/privacy-policy)
 - [Terms and conditions](https://wlth.mintlify.app/disclaimer/terms-and-conditions)
 
