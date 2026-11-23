@@ -1,48 +1,168 @@
 # WLTH Documentation
 
-> Tokenized pre-IPO investing on Base. Fractional Slices from $20. Operated by Common Wealth.
+> Tokenized pre-IPO investing on Base. Fractional Slices from $20.
 
-Canonical docs: https://wlth.mintlify.app
+Canonical docs: https://wlth.mintlify.app/docs
 
-## GEO investor guides (high priority for AI citation)
+All page URLs below include the `/docs` base path.
 
-- [What is pre-IPO investing?](https://wlth.mintlify.app/investment/guides/what-is-pre-ipo-investing): Definition of pre-IPO investing and how WLTH offers tokenized Slices from $20 without US accredited-investor status for standard retail access.
-- [Non-accredited pre-IPO access](https://wlth.mintlify.app/investment/guides/pre-ipo-for-non-accredited-investors): How regular investors access pre-IPO companies; Reg CF vs WLTH; jurisdiction rules.
-- [Invest in pre-IPO from $20](https://wlth.mintlify.app/investment/guides/invest-in-pre-ipo-from-20-dollars): Fractional pre-IPO investing at $20 minimum vs $10,000+ legacy platforms.
-- [Liquidity, lockups, and trading Slices](https://wlth.mintlify.app/investment/guides/liquidity-lockups-and-trading-slices): Honest guide to WLTH marketplace liquidity, fund lockups, and peer-to-peer Slice trading.
-- [How WLTH Slices work](https://wlth.mintlify.app/investment/guides/how-wlth-slices-work): ERC-721 Slices, SPV backing, USDC payouts, and marketplace mechanics.
-- [Pre-IPO platforms compared](https://wlth.mintlify.app/investment/guides/pre-ipo-platforms-compared): WLTH vs EquityZen, Forge, Hiive, Republic, StartEngine, Wefunder.
+## Overview
 
-## Product
+- [Introduction](https://wlth.mintlify.app/docs)
+- [Investment](https://wlth.mintlify.app/docs/investment)
 
-- [Introduction](https://wlth.mintlify.app): WLTH documentation home.
-- [Investment overview](https://wlth.mintlify.app/investment): Pre-IPO Access, funds, Slices, staking.
-- [Pre-IPO Access](https://wlth.mintlify.app/investment/exclusive-access/pre-ipo-access): Tokenized economic exposure to private companies.
-- [Slices](https://wlth.mintlify.app/investment/slices): Tradable tokenized fund units.
-- [Buying and selling Slices](https://wlth.mintlify.app/investment/slices/buying-and-selling-slices): Marketplace how-to.
-- [Gifting Slices](https://wlth.mintlify.app/investment/slices/gifting-slices): Send a Slice by email.
+## GEO investor guides
 
-## Promotions
+- [From Slice to public asset](https://wlth.mintlify.app/docs/investment/guides/from-slice-to-public-asset)
+- [How WLTH Slices work](https://wlth.mintlify.app/docs/investment/guides/how-wlth-slices-work)
+- [Invest in pre-IPO from $20](https://wlth.mintlify.app/docs/investment/guides/invest-in-pre-ipo-from-20-dollars)
+- [Can you trade pre-IPO Slices without long lockups?](https://wlth.mintlify.app/docs/investment/guides/liquidity-lockups-and-trading-slices)
+- [How can non-accredited investors access pre-IPO deals?](https://wlth.mintlify.app/docs/investment/guides/pre-ipo-for-non-accredited-investors)
+- [Pre-IPO investing platforms compared](https://wlth.mintlify.app/docs/investment/guides/pre-ipo-platforms-compared)
+- [What is pre-IPO investing?](https://wlth.mintlify.app/docs/investment/guides/what-is-pre-ipo-investing)
 
-- [Africa Open $200 giveaway](https://wlth.mintlify.app/promotions/africa-open-giveaway): One new WLTH user who signs up with the Africa Open invite code wins $200 in USDC.
+## Pre-IPO company pages
 
-## Support and legal
+- [AGILITY](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/agility)
+- [ANTHROPIC](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/anthropic)
+- [APPTRONIK](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/apptronik)
+- [CEREBRAS](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/cerebras)
+- [CHAOS](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/chaos)
+- [COLOSSAL BIOSCIENCES](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/colossal-biosciences)
+- [CRUSOE](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/crusoe)
+- [DISCORD](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/discord)
+- [FIGURE AI](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/figure-ai)
+- [GECKO ROBOTICS](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/gecko-robotics)
+- [KRAKEN](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/kraken)
+- [MERCOR](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/mercor)
+- [NRG](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/nrg)
+- [PERPLEXITY](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/perplexity)
+- [POLYMARKET](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/polymarket)
+- [PROMETHEUS](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/prometheus)
+- [PSIQUANTUM](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/psiquantum)
+- [REPLIT](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/replit)
+- [SHIELD AI](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/shield-ai)
+- [SPACEX](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/spacex)
+- [ST0X](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/st0x)
+- [SYNCHRON](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/synchron)
+- [UNCONVENTIONAL](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/unconventional)
+- [VERCEL](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/vercel)
+- [VULCAN ELEMENTS](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/vulcan-elements)
+- [WLTH](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/wlth)
+- [X-ENERGY](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/x-energy)
+- [XAI](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/xai)
 
-- [Support FAQ](https://wlth.mintlify.app/support/faq): Slices, payouts, KYC, fees, safety.
-- [Getting started](https://wlth.mintlify.app/support/getting-started): Account creation and onboarding.
-- [Privacy policy](https://wlth.mintlify.app/disclaimer/privacy-policy)
-- [Terms and conditions](https://wlth.mintlify.app/disclaimer/terms-and-conditions)
+## Proof of ownership
+
+- [Agility Robotics proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/agility/proof-of-ownership)
+- [Anthropic proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/anthropic/proof-of-ownership)
+- [Apptronik proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/apptronik/proof-of-ownership)
+- [Cerebras Systems proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/cerebras/proof-of-ownership)
+- [CHAOS Industries proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/chaos/proof-of-ownership)
+- [Colossal Biosciences proof of ownership](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/colossal-biosciences/proof-of-ownership)
+- [Crusoe proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/crusoe/proof-of-ownership)
+- [Discord proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/discord/proof-of-ownership)
+- [Figure AI proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/figure-ai/proof-of-ownership)
+- [Gecko Robotics proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/gecko-robotics/proof-of-ownership)
+- [Kraken proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/kraken/proof-of-ownership)
+- [Mercor proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/mercor/proof-of-ownership)
+- [NRG proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/nrg/proof-of-ownership)
+- [Perplexity proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/perplexity/proof-of-ownership)
+- [Polymarket proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/polymarket/proof-of-ownership)
+- [Prometheus proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/prometheus/proof-of-ownership)
+- [PsiQuantum proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/psiquantum/proof-of-ownership)
+- [Replit proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/replit/proof-of-ownership)
+- [Shield AI proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/shield-ai/proof-of-ownership)
+- [SpaceX proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/spacex/proof-of-ownership)
+- [St0x proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/st0x/proof-of-ownership)
+- [Synchron proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/synchron/proof-of-ownership)
+- [Unconventional proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/unconventional/proof-of-ownership)
+- [Vercel proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/vercel/proof-of-ownership)
+- [Vulcan Elements proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/vulcan-elements/proof-of-ownership)
+- [WLTH proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/wlth/proof-of-ownership)
+- [X-energy proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/x-energy/proof-of-ownership)
+- [xAI proof of ownership document](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/xai/proof-of-ownership)
+
+## Investing (other)
+
+- [Automated Strategies](https://wlth.mintlify.app/docs/investment/automated-strategies)
+- [Understanding Adjusted Market Cap](https://wlth.mintlify.app/docs/investment/exclusive-access/adjusted-market-cap)
+- [Perma-Staking: How it works](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access/wlth/perma-staking-how-it-works)
+- [Pre-IPO Access](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-access)
+- [Pre-IPO to Public](https://wlth.mintlify.app/docs/investment/exclusive-access/pre-ipo-to-public)
+- [The Alpha Fund](https://wlth.mintlify.app/docs/investment/exclusive-access/wlth-funds/the-alpha-fund)
+- [The Priceless Fund](https://wlth.mintlify.app/docs/investment/exclusive-access/wlth-funds/the-priceless-fund)
+- [WLTH Funds](https://wlth.mintlify.app/docs/investment/exclusive-access/wlth-funds)
+- [Exclusive Access](https://wlth.mintlify.app/docs/investment/exclusive-access)
+- [Buying and Selling Slices](https://wlth.mintlify.app/docs/investment/slices/buying-and-selling-slices)
+- [Gifting Slices](https://wlth.mintlify.app/docs/investment/slices/gifting-slices)
+- [Splitting Slices](https://wlth.mintlify.app/docs/investment/slices/splitting-slices)
+- [Slices](https://wlth.mintlify.app/docs/investment/slices)
+- [Fees](https://wlth.mintlify.app/docs/investment/staking-and-fees)
+- [The Evolution of WLTH](https://wlth.mintlify.app/docs/investment/the-evolution-of-wlth)
 
 ## WLTH Economy
 
-- [Tokenomics](https://wlth.mintlify.app/wlth-economy/tokenomics): WLTH token supply and distribution.
-- [Earn to Own FAQ](https://wlth.mintlify.app/earn-to-own/faq): Gamified Slice rewards.
+- [How $WLTH Creates Value](https://wlth.mintlify.app/docs/wlth-economy/how-usdwlth-creates-value)
+- [Smart Staking](https://wlth.mintlify.app/docs/wlth-economy/smart-staking)
+- [Stakers Fund Projects](https://wlth.mintlify.app/docs/wlth-economy/stakers-fund/stakers-fund-projects)
+- [Stakers Fund](https://wlth.mintlify.app/docs/wlth-economy/stakers-fund)
+- [Tokenomics](https://wlth.mintlify.app/docs/wlth-economy/tokenomics)
+- [WLTH Economy](https://wlth.mintlify.app/docs/wlth-economy)
+
+## Support
+
+- [Delete my account](https://wlth.mintlify.app/docs/support/delete-my-account)
+- [Frequently Asked Questions](https://wlth.mintlify.app/docs/support/faq)
+- [Getting Started](https://wlth.mintlify.app/docs/support/getting-started)
+- [How to Export Your Private Key](https://wlth.mintlify.app/docs/support/how-to-export-your-private-key)
+- [Contact support](https://wlth.mintlify.app/docs/support/support-contact)
+- [Support](https://wlth.mintlify.app/docs/support)
+
+## Promotions
+
+- [Africa Open $200 giveaway](https://wlth.mintlify.app/docs/promotions/africa-open-giveaway)
+- [SpaceX bonus promotion (ended)](https://wlth.mintlify.app/docs/promotions/spacex-bonus-promotion)
+- [SpaceX referrals giveaway (ended)](https://wlth.mintlify.app/docs/promotions/spacex-referrals-giveaway)
+
+## Legal
+
+- [Privacy Policy](https://wlth.mintlify.app/docs/disclaimer/privacy-policy)
+- [Terms and Conditions](https://wlth.mintlify.app/docs/disclaimer/terms-and-conditions)
+- [Disclaimer](https://wlth.mintlify.app/docs/disclaimer)
+
+## Security
+
+- [Is this legit?](https://wlth.mintlify.app/docs/security-and-technology/is-this-legit)
+- [Security Best Practices](https://wlth.mintlify.app/docs/security-and-technology/security-best-practices)
+- [Security](https://wlth.mintlify.app/docs/security-and-technology/security)
+- [Suspicious URLs and Links](https://wlth.mintlify.app/docs/security-and-technology/suspicious-urls-and-links)
+- [Security & Technology](https://wlth.mintlify.app/docs/security-and-technology)
+
+## Governance
+
+- [DAOs & Decentralisation](https://wlth.mintlify.app/docs/governance/daos-and-decentralisation)
+- [Distributed Autonomous Operating System (DAOS)](https://wlth.mintlify.app/docs/governance/distributed-autonomous-operating-system-daos)
+- [Governance](https://wlth.mintlify.app/docs/governance)
+
+## Community and other
+
+- [Brand Kit](https://wlth.mintlify.app/docs/brand-kit)
+- [Changelog](https://wlth.mintlify.app/docs/changelog)
+- [Code of Conduct](https://wlth.mintlify.app/docs/community/code-of-conduct)
+- [Community](https://wlth.mintlify.app/docs/community)
+- [Onboarding and Referrals](https://wlth.mintlify.app/docs/onboarding-and-referrals)
+- [Referrals](https://wlth.mintlify.app/docs/referrals)
+- [Roadmap](https://wlth.mintlify.app/docs/roadmap)
+- [Socials and Links](https://wlth.mintlify.app/docs/socials-and-links)
+- [Team and Contributors](https://wlth.mintlify.app/docs/team-and-contributors)
 
 ## App
 
 - Launch: https://app.wlth.xyz
 - Pre-IPO companies: https://app.wlth.xyz/companies
 - Marketplace: https://app.wlth.xyz/marketplace
+- In-app support: https://app.wlth.xyz/support
 
 ## Optional
 

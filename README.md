@@ -58,7 +58,6 @@ If the live site still shows the Mintlify starter kit after a push:
 | `support/` | Help & FAQ |
 | `disclaimer/` | Legal (privacy, terms) |
 | `investment/` | Product, slices, staking, pre-IPO |
-| `earn-to-own/` | Earn to Own campaigns |
 | `wlth-economy/` | Token, tokenomics, staking economy |
 
 ## Migration status
@@ -69,7 +68,6 @@ Pilot pages ported from GitBook (July 2026):
 - [x] Privacy Policy
 - [x] Support FAQ
 - [x] Gifting Slices
-- [x] Earn to Own FAQ
 - [x] Tokenomics
 
 Remaining ~100 GitBook pages: in progress.
