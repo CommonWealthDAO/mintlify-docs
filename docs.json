@@ -28,12 +28,12 @@
               "investment/guides/invest-in-pre-ipo-from-20-dollars",
               "investment/guides/liquidity-lockups-and-trading-slices",
               "investment/guides/how-wlth-slices-work",
-              "investment/guides/pre-ipo-platforms-compared"
+              "investment/guides/pre-ipo-platforms-compared",
+              "investment/guides/from-slice-to-public-asset"
             ]
           },
           "investment/automated-strategies",
           "investment/exclusive-access",
-          "investment/genesis-nfts",
           "investment/slices",
           "investment/staking-and-fees",
           "investment/the-evolution-of-wlth",
@@ -248,7 +248,6 @@
               {
                 "group": "Wlth Funds",
                 "pages": [
-                  "investment/exclusive-access/wlth-funds/oracles",
                   "investment/exclusive-access/wlth-funds/the-alpha-fund",
                   "investment/exclusive-access/wlth-funds/the-priceless-fund"
                 ]
@@ -282,14 +281,6 @@
         ]
       },
       {
-        "group": "Earn to Own",
-        "pages": [
-          "earn-to-own",
-          "earn-to-own/faq",
-          "earn-to-own/terms-and-conditions"
-        ]
-      },
-      {
         "group": "Help & Support",
         "pages": [
           "support",
@@ -298,9 +289,20 @@
           "support/getting-started",
           "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway",
           "support/support-contact"
+        ]
+      },
+      {
+        "group": "Promotions",
+        "pages": [
+          "promotions/africa-open-giveaway",
+          {
+            "group": "Past promotions",
+            "pages": [
+              "promotions/spacex-bonus-promotion",
+              "promotions/spacex-referrals-giveaway"
+            ]
+          }
         ]
       },
       {
@@ -407,6 +409,7 @@
             "pages": [
               "investment/guides/what-is-pre-ipo-investing",
               "investment/guides/pre-ipo-for-non-accredited-investors",
+              "investment/guides/invest-in-pre-ipo-from-20-dollars",
               "investment/guides/liquidity-lockups-and-trading-slices",
               "investment/guides/how-wlth-slices-work",
               "investment/guides/pre-ipo-platforms-compared",
@@ -659,15 +662,6 @@
         "hidden": true
       },
       {
-        "group": "Earn to Own",
-        "pages": [
-          "earn-to-own",
-          "earn-to-own/faq",
-          "earn-to-own/terms-and-conditions"
-        ],
-        "hidden": true
-      },
-      {
         "group": "Help & Support",
         "pages": [
           "support",
@@ -676,9 +670,20 @@
           "support/getting-started",
           "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway",
           "support/support-contact"
+        ]
+      },
+      {
+        "group": "Promotions",
+        "pages": [
+          "promotions/africa-open-giveaway",
+          {
+            "group": "Past promotions",
+            "pages": [
+              "promotions/spacex-bonus-promotion",
+              "promotions/spacex-referrals-giveaway"
+            ]
+          }
         ]
       },
       {
@@ -787,5 +792,35 @@
       "discord": "https://discord.gg/wlth",
       "github": "https://github.com/CommonWealthDAO"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/earn-to-own",
+      "destination": "/"
+    },
+    {
+      "source": "/earn-to-own/faq",
+      "destination": "/"
+    },
+    {
+      "source": "/earn-to-own/terms-and-conditions",
+      "destination": "/"
+    },
+    {
+      "source": "/investment/genesis-nfts",
+      "destination": "/investment"
+    },
+    {
+      "source": "/investment/exclusive-access/wlth-funds/oracles",
+      "destination": "/investment/exclusive-access/wlth-funds"
+    },
+    {
+      "source": "/support/spacex-bonus-promotion",
+      "destination": "/promotions/spacex-bonus-promotion"
+    },
+    {
+      "source": "/support/spacex-referrals-giveaway",
+      "destination": "/promotions/spacex-referrals-giveaway"
+    }
+  ]
 }
