@@ -22,6 +22,10 @@ Canonical docs: https://wlth.mintlify.app
 - [Buying and selling Slices](https://wlth.mintlify.app/investment/slices/buying-and-selling-slices): Marketplace how-to.
 - [Gifting Slices](https://wlth.mintlify.app/investment/slices/gifting-slices): Send a Slice by email.
 
+## Promotions
+
+- [Africa Open $200 giveaway](https://wlth.mintlify.app/promotions/africa-open-giveaway): One new WLTH user who signs up with the Africa Open invite code wins $200 in USDC.
+
 ## Support and legal
 
 - [Support FAQ](https://wlth.mintlify.app/support/faq): Slices, payouts, KYC, fees, safety.
