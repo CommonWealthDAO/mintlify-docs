@@ -28,12 +28,12 @@
               "investment/guides/invest-in-pre-ipo-from-20-dollars",
               "investment/guides/liquidity-lockups-and-trading-slices",
               "investment/guides/how-wlth-slices-work",
-              "investment/guides/pre-ipo-platforms-compared"
+              "investment/guides/pre-ipo-platforms-compared",
+              "investment/guides/from-slice-to-public-asset"
             ]
           },
           "investment/automated-strategies",
           "investment/exclusive-access",
-          "investment/genesis-nfts",
           "investment/slices",
           "investment/staking-and-fees",
           "investment/the-evolution-of-wlth",
@@ -248,7 +248,6 @@
               {
                 "group": "Wlth Funds",
                 "pages": [
-                  "investment/exclusive-access/wlth-funds/oracles",
                   "investment/exclusive-access/wlth-funds/the-alpha-fund",
                   "investment/exclusive-access/wlth-funds/the-priceless-fund"
                 ]
@@ -289,9 +288,14 @@
           "support/faq",
           "support/getting-started",
           "support/how-to-export-your-private-key",
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway",
           "support/support-contact"
+        ]
+      },
+      {
+        "group": "Past promotions",
+        "pages": [
+          "support/spacex-bonus-promotion",
+          "support/spacex-referrals-giveaway"
         ]
       },
       {
@@ -398,6 +402,7 @@
             "pages": [
               "investment/guides/what-is-pre-ipo-investing",
               "investment/guides/pre-ipo-for-non-accredited-investors",
+              "investment/guides/invest-in-pre-ipo-from-20-dollars",
               "investment/guides/liquidity-lockups-and-trading-slices",
               "investment/guides/how-wlth-slices-work",
               "investment/guides/pre-ipo-platforms-compared",
@@ -657,9 +662,14 @@
           "support/faq",
           "support/getting-started",
           "support/how-to-export-your-private-key",
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway",
           "support/support-contact"
+        ]
+      },
+      {
+        "group": "Past promotions",
+        "pages": [
+          "support/spacex-bonus-promotion",
+          "support/spacex-referrals-giveaway"
         ]
       },
       {
@@ -782,6 +792,14 @@
     {
       "source": "/earn-to-own/terms-and-conditions",
       "destination": "/"
+    },
+    {
+      "source": "/investment/genesis-nfts",
+      "destination": "/investment"
+    },
+    {
+      "source": "/investment/exclusive-access/wlth-funds/oracles",
+      "destination": "/investment/exclusive-access/wlth-funds"
     }
   ]
 }
