@@ -116,10 +116,14 @@ All page URLs below include the `/docs` base path.
 - [Frequently Asked Questions](https://wlth.mintlify.app/docs/support/faq)
 - [Getting Started](https://wlth.mintlify.app/docs/support/getting-started)
 - [How to Export Your Private Key](https://wlth.mintlify.app/docs/support/how-to-export-your-private-key)
-- [SpaceX bonus promotion (ended)](https://wlth.mintlify.app/docs/support/spacex-bonus-promotion)
-- [SpaceX referrals giveaway (ended)](https://wlth.mintlify.app/docs/support/spacex-referrals-giveaway)
 - [Contact support](https://wlth.mintlify.app/docs/support/support-contact)
 - [Support](https://wlth.mintlify.app/docs/support)
+
+## Promotions
+
+- [Africa Open $200 giveaway](https://wlth.mintlify.app/docs/promotions/africa-open-giveaway)
+- [SpaceX bonus promotion (ended)](https://wlth.mintlify.app/docs/promotions/spacex-bonus-promotion)
+- [SpaceX referrals giveaway (ended)](https://wlth.mintlify.app/docs/promotions/spacex-referrals-giveaway)
 
 ## Legal
 

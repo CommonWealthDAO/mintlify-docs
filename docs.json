@@ -292,10 +292,16 @@
         ]
       },
       {
-        "group": "Past promotions",
+        "group": "Promotions",
         "pages": [
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway"
+          "promotions/africa-open-giveaway",
+          {
+            "group": "Past promotions",
+            "pages": [
+              "promotions/spacex-bonus-promotion",
+              "promotions/spacex-referrals-giveaway"
+            ]
+          }
         ]
       },
       {
@@ -666,10 +672,16 @@
         ]
       },
       {
-        "group": "Past promotions",
+        "group": "Promotions",
         "pages": [
-          "support/spacex-bonus-promotion",
-          "support/spacex-referrals-giveaway"
+          "promotions/africa-open-giveaway",
+          {
+            "group": "Past promotions",
+            "pages": [
+              "promotions/spacex-bonus-promotion",
+              "promotions/spacex-referrals-giveaway"
+            ]
+          }
         ]
       },
       {
@@ -800,6 +812,14 @@
     {
       "source": "/investment/exclusive-access/wlth-funds/oracles",
       "destination": "/investment/exclusive-access/wlth-funds"
+    },
+    {
+      "source": "/support/spacex-bonus-promotion",
+      "destination": "/promotions/spacex-bonus-promotion"
+    },
+    {
+      "source": "/support/spacex-referrals-giveaway",
+      "destination": "/promotions/spacex-referrals-giveaway"
     }
   ]
 }
