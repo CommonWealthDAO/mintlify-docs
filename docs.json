@@ -296,6 +296,7 @@
           "support/delete-my-account",
           "support/faq",
           "support/getting-started",
+          "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
           "support/spacex-bonus-promotion",
           "support/spacex-referrals-giveaway",
@@ -673,6 +674,7 @@
           "support/delete-my-account",
           "support/faq",
           "support/getting-started",
+          "onboarding-and-referrals",
           "support/how-to-export-your-private-key",
           "support/spacex-bonus-promotion",
           "support/spacex-referrals-giveaway",
@@ -715,8 +717,7 @@
       {
         "group": "Referrals",
         "pages": [
-          "referrals",
-          "onboarding-and-referrals"
+          "referrals"
         ]
       },
       {
