@@ -282,14 +282,6 @@
         ]
       },
       {
-        "group": "Earn to Own",
-        "pages": [
-          "earn-to-own",
-          "earn-to-own/faq",
-          "earn-to-own/terms-and-conditions"
-        ]
-      },
-      {
         "group": "Help & Support",
         "pages": [
           "support",
@@ -658,15 +650,6 @@
         "hidden": true
       },
       {
-        "group": "Earn to Own",
-        "pages": [
-          "earn-to-own",
-          "earn-to-own/faq",
-          "earn-to-own/terms-and-conditions"
-        ],
-        "hidden": true
-      },
-      {
         "group": "Help & Support",
         "pages": [
           "support",
@@ -786,5 +769,19 @@
       "discord": "https://discord.gg/wlth",
       "github": "https://github.com/CommonWealthDAO"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/earn-to-own",
+      "destination": "/"
+    },
+    {
+      "source": "/earn-to-own/faq",
+      "destination": "/"
+    },
+    {
+      "source": "/earn-to-own/terms-and-conditions",
+      "destination": "/"
+    }
+  ]
 }

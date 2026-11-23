@@ -32,7 +32,6 @@ Canonical docs: https://wlth.mintlify.app
 ## WLTH Economy
 
 - [Tokenomics](https://wlth.mintlify.app/wlth-economy/tokenomics): WLTH token supply and distribution.
-- [Earn to Own FAQ](https://wlth.mintlify.app/earn-to-own/faq): Gamified Slice rewards.
 
 ## App
 
