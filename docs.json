@@ -303,6 +303,12 @@
         ]
       },
       {
+        "group": "Promotions",
+        "pages": [
+          "promotions/africa-open-giveaway"
+        ]
+      },
+      {
         "group": "Legal",
         "pages": [
           "disclaimer",
@@ -677,6 +683,12 @@
           "support/spacex-bonus-promotion",
           "support/spacex-referrals-giveaway",
           "support/support-contact"
+        ]
+      },
+      {
+        "group": "Promotions",
+        "pages": [
+          "promotions/africa-open-giveaway"
         ]
       },
       {
